@@ -1,13 +1,4 @@
-# Task 1
-
-Submitted by [Anubhav](https://www.linkedin.com/in/anubhav-gupta-307a3a16b/) to [Vimal Daga](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in)
-
-## ❗ Contest Alert ❗
-
-We hope everyone is enjoying Flutter mobile app development course under Vimal Daga Sir.🌟
-To boost up the motivation LinuxWorld has come up with a contest.🤩
-
-‼️ Task1: Flutter App Development‼️
+# Flutter App Development‼️
 
 1. Create a flutter app.
 2. Use assets (eg. audios and videos).
