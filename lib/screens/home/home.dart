@@ -1,7 +1,6 @@
+import 'package:Beats/screens/audio_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:Beats/screens/audio/onlinlibrary.dart';
-import 'package:Beats/screens/video/onlinevideo.dart';
 import 'package:Beats/screens/audio/offlinlibrary.dart';
 import 'package:Beats/screens/video/offlinevideo.dart';
 import 'package:Beats/screens/home_screen.dart';
@@ -53,7 +52,7 @@ class Homebody extends StatelessWidget {
                       onTap: () => Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (contex) => Onlinelibrary(),
+                          builder: (contex) => Offlinelibrary(),
                         ),
                       ),
                       child: Container(
@@ -94,7 +93,7 @@ class Homebody extends StatelessWidget {
                       onTap: () => Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (contex) => Offlinelibrary(),
+                          builder: (contex) => AudioScreen(),
                         ),
                       ),
                       child: Container(
