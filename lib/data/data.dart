@@ -20,7 +20,7 @@ List<Data> datas = [
     asset: 'assets/audios/hardafa.mp3',
     thumb: "assets/images/tumhardafa.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/hardafa.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/hardafa.mp3',
   ),
   Data(
     id: 2,
@@ -29,7 +29,7 @@ List<Data> datas = [
     asset: 'assets/audios/soniyo.mp3',
     thumb: "assets/images/soniyo2.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/soniyo.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/soniyo.mp3',
   ),
   Data(
     id: 3,
@@ -38,7 +38,7 @@ List<Data> datas = [
     asset: 'assets/audios/genda.mp3',
     thumb: "assets/images/genda.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/genda.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/genda.mp3',
   ),
   Data(
     id: 4,
@@ -47,7 +47,7 @@ List<Data> datas = [
     asset: 'assets/audios/malang.mp3',
     thumb: "assets/images/malang.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/malang.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/malang.mp3',
   ),
   Data(
     id: 5,
@@ -56,7 +56,7 @@ List<Data> datas = [
     asset: 'assets/audios/kehndi.mp3',
     thumb: "assets/images/kehndi.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/kehndi.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/kehndi.mp3',
   ),
   Data(
     id: 6,
@@ -65,7 +65,7 @@ List<Data> datas = [
     asset: 'assets/audios/kuchbhi.mp3',
     thumb: "assets/images/kuch.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/kuchbhi.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/kuchbhi.mp3',
   ),
   Data(
     id: 7,
@@ -74,7 +74,7 @@ List<Data> datas = [
     asset: 'assets/audios/asal.mp3',
     thumb: "assets/images/asal.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/asal.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/asal.mp3',
   ),
   Data(
     id: 8,
@@ -83,7 +83,7 @@ List<Data> datas = [
     asset: 'assets/audios/chal.mp3',
     thumb: "assets/images/malang.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/audios/chal.mp3',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/audios/chal.mp3',
   ),
 ];
 
@@ -109,7 +109,7 @@ List<Video> videos = [
     asset: 'assets/videos/hum.mp4',
     thumb: "assets/images/hum2.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/videos/hum.mp4',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/videos/hum.mp4',
   ),
   Video(
     id: 2,
@@ -118,6 +118,6 @@ List<Video> videos = [
     asset: 'assets/videos/kurta.mp4',
     thumb: "assets/images/kurta.jpg",
     url:
-        'https://raw.githubusercontent.com/anubhav11803451/Flutter-LinuxWorld/task1/Contest/task1/assets/videos/hum.mp4',
+        'https://raw.githubusercontent.com/shivam1808/Beats-Audio-Video-Player/master/assets/videos/hum.mp4',
   ),
 ];
