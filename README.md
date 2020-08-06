@@ -1,8 +1,4 @@
 # Flutter App Development‼️
 
-1. Create a flutter app.
-2. Use assets (eg. audios and videos).
-3. App will have to play this audios and videos from Assets.
-4. Also add Features to play audio and video from Internet(Network).
-5. Create buttons like play, pause and stop for audio and video both.
+Here I built an Android app named "Beats: Audio Video Player" using flutter. This app will play audio and video locally i.e, from assets as well as it has a feature to run online YouTube videos.
 
